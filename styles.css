@@ -3,8 +3,8 @@ body {
     line-height: 1.6;
     margin: 10;
     padding: 0;
-    background-color: #f5f6f7; /* Светлый цвет фона */
-    color: #242a33; /* Темный цвет текста */
+    background-color: #f5f6f7;
+    color: #242a33; 
     text-align: center;
 }
 h1, h2, h3 {
@@ -35,5 +35,5 @@ ul li span {
     color: #333;
 }
 ul li:hover span {
-    color: #FF69B4; /* Розовый цвет при наведении */
+    color: #FF69B4;
 }
